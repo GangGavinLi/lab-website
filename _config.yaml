@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: GangGavinLi
-subtitle: 
+subtitle: subtitle
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,8 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@GangGavinLi.com
-  orcid: 0000-0001-8713-9213
+  email: gli@me.msstate.edu
+  orcid: 0000-0003-2793-4615
   google-scholar: ETJoidYAAAAJ
   github: GangGavinLi
   twitter: GangGavinLi
