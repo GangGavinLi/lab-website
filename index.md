@@ -1,22 +1,29 @@
 ---
 ---
 
-# GangGavinLi's Website
+# Gang Li Research Lab
 
-An engaging 1-3 sentence description of your lab.
+Pioneering AI-enabled predictive maintenance, renewable energy systems, and advanced drivetrain technologies for sustainable infrastructure resilience.
 
 {% include section.html %}
 
-## Highlights
+## Research Focus
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab focuses on developing intelligent systems for energy infrastructure, combining artificial intelligence, machine learning, and advanced mechanical engineering to create more sustainable and resilient energy solutions.
+
+Key research areas include:
+- AI-enabled predictive maintenance for renewable energy systems
+- Advanced drivetrain design for tidal and wind energy converters
+- Federated learning for distributed energy systems
+- Time-series forecasting for hydrogen production
+- Gear dynamics and transmission systems
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore Our Research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,12 +41,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop innovative solutions for renewable energy challenges, including novel infinitely variable transmissions for tidal energy converters, AI-powered forecasting systems for wind-to-hydrogen production, and federated learning frameworks for decentralized condition monitoring.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="View Our Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -59,12 +66,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our diverse team of researchers, graduate students, and collaborators working at the intersection of artificial intelligence, mechanical engineering, and renewable energy systems.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet Our Team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
