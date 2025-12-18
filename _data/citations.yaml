@@ -1,192 +1,539 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.ijhydene.2025.152853
+  title: Multivariate CNN-Bi-LSTM temporal production forecasting for distributed
+    wind-to-hydrogen integrated systems with efficient data feature extraction
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Doha Bounaim
+  - Sara Mouafik
+  - Gang Li
+  publisher: International Journal of Hydrogen Energy
+  date: '2026-01-01'
+  link: https://doi.org/hbf6j5
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.mechmachtheory.2025.106286
+  title: An analytical mesh stiffness model of high-contact-ratio spur gears covering
+    multiple structure coupling effects
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Xingyuan Zheng
+  - Yumei Hu
+  - Gang Li
+  - Jun Luo
+  - Robert G. Parker
+  publisher: Mechanism and Machine Theory
+  date: '2025-12-01'
+  link: https://doi.org/hbf6j6
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.uclim.2025.102669
+  title: Physics-Informed Ensemble Learning for city-center grid cell temperature
+    prediction during thermal extremes
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Laeeq Aslam
+  - Runmin Zou
+  - Gang Li
+  - Ebrahim Shahzad Awan
+  - Sara Mouafik
+  publisher: Urban Climate
+  date: '2025-12-01'
+  link: https://doi.org/hbf6j7
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/a18100600
+  title: "A Physics-Enhanced CNN\u2013LSTM Predictive Condition Monitoring Method\
+    \ for Underground Power Cable Infrastructure"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Zaki Moutassem
+  - Doha Bounaim
+  - Gang Li
+  publisher: Algorithms
+  date: '2025-09-25'
+  link: https://doi.org/hbf6j8
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1115/es2025-156364
+  title: An Enhanced Federated Learning Framework for Condition Monitoring of Distributed
+    Wind Systems
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - William Mayfield
+  - Gang Li
+  publisher: ASME 2025 19th International Conference on Energy Sustainability
+  date: '2025-07-08'
+  link: https://doi.org/hbf6j9
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1115/es2025-156886
+  title: Time-Series AI Forecasting of Wind-to-Hydrogen Production
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Doha Bounaim
+  - Gang Li
+  publisher: ASME 2025 19th International Conference on Energy Sustainability
+  date: '2025-07-08'
+  link: https://doi.org/hbf6kb
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.oceaneng.2025.121068
+  title: Hierarchical speed control of an infinitely variable transmission in tidal
+    current energy converters using integral reinforcement learning
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Zhichang Qin
+  - Gang Li
+  - Weidong Zhu
+  - William Mayfield
+  publisher: Ocean Engineering
+  date: '2025-06-01'
+  link: https://doi.org/hbf6kc
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.3390/a18040206
+  title: Enhanced Wind Energy Forecasting Using an Extended Long Short-Term Memory
+    Model
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Zachary Barbre
+  - Gang Li
+  publisher: Algorithms
+  date: '2025-04-07'
+  link: https://doi.org/hbf6kd
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/sym17050689
+  title: Multi-Domain Digital Twin and Real-Time Performance Optimization for Marine
+    Steam Turbines
+  authors:
+  - Yuhui Liu
+  - Duansen Shangguan
+  - Liping Chen
+  - Xiaoyan Liu
+  - Guihao Yin
+  - Gang Li
+  publisher: Symmetry
+  date: '2025-04-30'
+  link: https://doi.org/hbf6kf
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/machines13030178
+  title: Study on Dynamic Behaviors of Hypoid Gears Under Variable Tidal Current Energy
+    Harvesting Conditions
+  authors:
+  - Dequan Huang
+  - Yan Li
+  - Xingyuan Zheng
+  - Gang Li
+  publisher: Machines
+  date: '2025-02-24'
+  link: https://doi.org/hbf6kg
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/machines13020161
+  title: "Reshaping Load-Dependent Mesh Excitation Waveforms of Spur Gears\u2014An\
+    \ Analytical Framework on Tip Relief Modeling and Design"
+  authors:
+  - Xingyuan Zheng
+  - Weidong Zhu
+  - Gang Li
+  - Yumei Hu
+  publisher: Machines
+  date: '2025-02-18'
+  link: https://doi.org/hbf6kh
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202501.1300.v1
+  title: Study on Dynamic Behaviors of Hypoid Gears Under Variable Tidal Current Energy
+    Harvesting Conditions
+  authors:
+  - Dequan Huang
+  - Yan Li
+  - Xingyuan Zheng
+  - Gang Li
+  publisher: MDPI AG
+  date: '2025-01-17'
+  link: https://doi.org/hbf6kj
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.precisioneng.2024.09.026
+  title: On gear time-varying meshing stiffness calculation considering indexing feeds
+    and processing characteristics of gear shaping processing
+  authors:
+  - Yan Li
+  - Gang Li
+  - Zhonghou Wang
+  - William Mayfield
+  publisher: Precision Engineering
+  date: '2024-12-01'
+  link: https://doi.org/hbf6kk
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s24217043
+  title: 'Experimental Investigation of Steel-Borne Acoustic Pulses for Fault Pinpointing
+    in Pipe-Type Cable Systems: A Scaled-Down Model Approach'
+  authors:
+  - Zaki Moutassem
+  - Gang Li
+  - Weidong Zhu
+  publisher: Sensors
+  date: '2024-10-31'
+  link: https://doi.org/hbf6km
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/00222348.2024.2393517
+  title: Fatigue Life Prediction of a Rubber Mount Considering the Self-Heating by
+    the Hysteresis Loss of the Rubber Material Subjected to Cyclic Loadings
+  authors:
+  - Qian Li
+  - Tong-qing Tang
+  - Gang He
+  - Ming-hai Yuan
+  - Gang Li
+  publisher: Journal of Macromolecular Science, Part B
+  date: '2024-08-19'
+  link: https://doi.org/hbf6kn
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A reinforcement learning-based hierarchical speed control of an infinitely
+    variable transmission for tidal current energy converters
+  publisher: ASME 2024 18th International Conference on Energy Sustainability (ES2024)
+  date: '2024-04-17'
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Decentralized condition monitoring for distributed wind systems: A federated
+    learning-based approach to enhance SCADA data privacy'
+  publisher: ASME 2024 18th International Conference on Energy Sustainability (ES2024)
+  date: '2024-04-17'
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.precisioneng.2024.04.007
+  title: A form-grinding wheel optimization method for helical gears based on a PSO-SVM
+    model
+  authors:
+  - Yan Li
+  - Gang Li
+  - Zhonghou Wang
+  - Wenmin Zhu
+  publisher: Precision Engineering
+  date: '2024-06-01'
+  link: https://doi.org/g62rc5
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/machines12010034
+  title: Multi-Point Control for Face-Milled Spiral Bevel Gears with a Predesigned
+    Fourth-Order Motion Curve
+  authors:
+  - Yuhui Liu
+  - Liping Chen
+  - Gang Li
+  publisher: Machines
+  date: '2024-01-03'
+  link: https://doi.org/hbf6kp
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMECH.2024.3398534
+  title: Control and Flume Flow Experiments of a Tidal Current Energy Converter With
+    an Infinitely Variable Transmission
+  authors:
+  - Gang Li
+  - Weidong Zhu
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2024-08-01'
+  link: https://doi.org/hbf6kq
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.rser.2023.113269
+  title: 'Tidal current energy harvesting technologies: A review of current status
+    and life cycle assessment'
+  authors:
+  - Gang Li
+  - Weidong Zhu
+  publisher: Renewable and Sustainable Energy Reviews
+  date: '2023-06-01'
+  link: https://doi.org/gskwfc
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/en15239236
+  title: A Review on Up-to-Date Gearbox Technologies and Maintenance of Tidal Current
+    Energy Converters
+  authors:
+  - Gang Li
+  - Weidong Zhu
+  publisher: Energies
+  date: '2022-12-06'
+  link: https://doi.org/hbf6kr
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.30939/ijastech..1171720
+  title: A Reliability-Enhanced Forming Grinding Method of Cylindrical Involute Gears
+    for Electrical Vehicles
+  authors:
+  - Zhi GENG
+  - Gang LI
+  publisher: International Journal of Automotive Science and Technology
+  date: '2022-12-31'
+  link: https://doi.org/hbf6ks
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.30939/ijastech..1119271
+  title: Optimal Clutch Control of a One-way Clutch Assistant Transmission for Electrical
+    Vehicles
+  authors:
+  - Zhi GENG
+  - Gang LI
+  publisher: International Journal of Automotive Science and Technology
+  date: '2022-10-03'
+  link: https://doi.org/g7m9bs
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s22114007
+  title: A Non-Destructive Health Evaluation Method for Wooden Utility Poles with
+    Frequency-Modulated Empirical Mode Decomposition and Laplace Wavelet Correlation
+    Filtering
+  authors:
+  - Xiaoli Zhang
+  - Ji Yang
+  - Weidong Zhu
+  - Gang Li
+  publisher: Sensors
+  date: '2022-05-25'
+  link: https://doi.org/hbf6kt
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.renene.2022.02.101
+  title: Time-delay closed-loop control of an infinitely variable transmission system
+    for tidal current energy converters
+  authors:
+  - Gang Li
+  - Weidong Zhu
+  publisher: Renewable Energy
+  date: '2022-04-01'
+  link: https://doi.org/hbf6kv
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechmachtheory.2021.104410
+  title: Theoretical and experimental investigation on an integral time-delay feedback
+    control combined with a closed-loop control for an infinitely variable transmission
+    system
+  authors:
+  - Gang Li
+  - Xuefeng Wang
+  - Weidong Zhu
+  publisher: Mechanism and Machine Theory
+  date: '2021-10-01'
+  link: https://doi.org/gptxws
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.30939/ijastech..887588
+  title: Gear Bending Stress Analysis of Automatic Transmissions with Different Fillet
+    Curves
+  authors:
+  - Gang LI
+  - Zhi GENG
+  publisher: International Journal of Automotive Science and Technology
+  date: '2021-06-30'
+  link: https://doi.org/gjp5z3
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.30939/ijastech..837414
+  title: Tooth Contact Analysis of Herringbone Rack Gears of an Impulse Continuously
+    Variable Transmission
+  authors:
+  - "Gang L\u0130"
+  - Zhi GENG
+  publisher: International Journal of Automotive Science and Technology
+  date: '2021-03-31'
+  link: https://doi.org/hbf6kw
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mechmachtheory.2020.104137
+  title: Design and power loss evaluation of a noncircular gear pair for an infinitely
+    variable transmission
+  authors:
+  - Gang Li
+  - Weidong Zhu
+  publisher: Mechanism and Machine Theory
+  date: '2021-02-01'
+  link: https://doi.org/hbf6kx
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmech.2021.3080591
+  title: Experimental Investigation on Control of an Infinitely Variable Transmission
+    System for Tidal Current Energy Converters
+  authors:
+  - Gang Li
+  - Weidong Zhu
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2021-08-01'
+  link: https://doi.org/hbf6kz
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/en13246747
+  title: Free and Forced Vibration Analysis of H-type and Hybrid Vertical-Axis Wind
+    Turbines
+  authors:
+  - Minhui Tong
+  - Weidong Zhu
+  - Xiang Zhao
+  - Meilin Yu
+  - Kan Liu
+  - Gang Li
+  publisher: Energies
+  date: '2020-12-21'
+  link: https://doi.org/hbf6k2
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.30939/ijastech..796723
+  title: Design and Modeling of an Impulse Continuously Variable Transmission with
+    a Rotational Swashplate
+  authors:
+  - "Gang L\u0130"
+  publisher: International Journal of Automotive Science and Technology
+  date: '2020-12-31'
+  link: https://doi.org/hbf6k3
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app10020481
+  title: An Elastic Transmission Error Compensation Method for Rotary Vector Speed
+    Reducers Based on Error Sensitivity Analysis
+  authors:
+  - Yuhao Hu
+  - Gang Li
+  - Weidong Zhu
+  - Jiankun Cui
+  publisher: Applied Sciences
+  date: '2020-01-09'
+  link: https://doi.org/hbf6k4
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.triboint.2019.105884
+  title: Conjugate approach for hypoid gears frictional loss comparison between different
+    roughness patterns under mixed elastohydrodynamic lubrication regime
+  authors:
+  - Dequan Huang
+  - Zhonghou Wang
+  - Gang Li
+  - Weidong Zhu
+  publisher: Tribology International
+  date: '2019-12-01'
+  link: https://doi.org/g6x8qh
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Iterative Optimization of Orbital Dynamics Based on Model Prediction
+  publisher: Frontiers in Artificial Intelligence and Applications
+  date: '2023-05-17'
+  link: https://www.google.com/books/edition/Fuzzy_Systems_and_Data_Mining_V/ce-9DwAAQBAJ?hl=en&gbpv=1&pg=PA76&printsec=frontcover
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.4043206
+  title: An Active Ease-Off Topography Modification Approach for Hypoid Pinions Based
+    on a Modified Error Sensitivity Analysis Method
+  authors:
+  - G. Li
+  - W. D. Zhu
+  publisher: Journal of Mechanical Design
+  date: '2019-04-24'
+  link: https://doi.org/hbf6k5
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.4041587
+  title: Prediction of Surface Wear of Involute Gears Based on a Modified Fractal
+    Method
+  authors:
+  - G. Li
+  - Z. H. Wang
+  - W. D. Zhu
+  publisher: Journal of Tribology
+  date: '2018-11-08'
+  link: https://doi.org/hbf6k6
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00170-017-0363-5
+  title: A function-oriented active form-grinding method for cylindrical gears based
+    on error sensitivity
+  authors:
+  - Gang Li
+  - Zhonghou Wang
+  - Weidong Zhu
+  - Aizoh Kubo
+  publisher: The International Journal of Advanced Manufacturing Technology
+  date: '2017-04-14'
+  link: https://doi.org/gbt989
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0954406215616835
+  title: Error-sensitivity analysis for hypoid gears using a real tooth surface contact
+    model
+  authors:
+  - Gang Li
+  - Zhonghou Wang
+  - Aizoh Kubo
+  publisher: 'Proceedings of the Institution of Mechanical Engineers, Part C: Journal
+    of Mechanical Engineering Science'
+  date: '2016-08-09'
+  link: https://doi.org/f9vtdv
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12541-016-0036-6
+  title: The modeling approach of digital real tooth surfaces of hypoid gears based
+    on non-geometric-feature segmentation and interpolation algorithm
+  authors:
+  - Gang Li
+  - Zhonghou Wang
+  - Aizoh Kubo
+  publisher: International Journal of Precision Engineering and Manufacturing
+  date: '2016-03-01'
+  link: https://doi.org/g4pkj8
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202410.1461.v1
+  title: 'Experimental Investigation of Steel-Borne Acoustic Pulses for Fault Pinpointing
+    in Pipe-Type Cable Systems: A Scaled-Down Model Approach'
+  authors:
+  - Zaki Moutassem
+  - Gang Li
+  - Weidong Zhu
+  publisher: MDPI AG
+  date: '2024-10-18'
+  link: https://doi.org/hbf6k7
+  orcid: 0000-0003-2793-4615
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -202,9 +549,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -221,21 +565,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
