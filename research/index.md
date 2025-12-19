@@ -46,22 +46,6 @@ Advancing the science of mechanical power transmission:
 
 {% include section.html %}
 
-## Featured Publications
-
-{% include citation.html lookup="Multivariate CNN-Bi-LSTM temporal production forecasting" style="rich" %}
-
-{% include section.html %}
-
-## All Publications
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
-
-{% include section.html %}
-
 ## Funding & Support
 
 Our research is supported by:
