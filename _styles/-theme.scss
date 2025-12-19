@@ -3,7 +3,7 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
+  --primary: #660000;  // MSU Maroon (official)
   --secondary: #7dd3fc;
   --text: #000000;
   --background: #ffffff;
@@ -14,7 +14,7 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
+  --primary: #8B0000;  // Lighter maroon for dark mode visibility
   --secondary: #075985;
   --text: #ffffff;
   --background: #181818;
