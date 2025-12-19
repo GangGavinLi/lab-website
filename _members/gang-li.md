@@ -1,6 +1,6 @@
 ---
 name: Gang Li
-image: images/members/gang-li.jpg
+image: images/members/gang-li.jpeg
 role: principal-investigator
 description: Assistant Professor
 aliases:
