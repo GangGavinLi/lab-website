@@ -1,0 +1,60 @@
+{% if include.lookup %}
+  {% assign blog = site.blogs 
+    | where_exp: "blog", "blog.slug == include.lookup"
+    | first
+    | default: include
+  %}
+{% else %}
+  {% assign blog = include %}
+{% endif %}
+
+<div class="blog-excerpt-container">
+  <div class="blog-excerpt">
+    {% assign url = blog.url | relative_url | uri_escape %}
+    {% assign title = blog.title %}
+    {% assign image = blog.image | relative_url | uri_escape %}
+
+    {% if image %}
+      <a
+        href="{{ url }}"
+        class="blog-excerpt-image"
+        aria-label="{{ title | default: "excerpt link" | regex_strip }}"
+      >
+        <img
+          src="{{ image }}"
+          alt="{{ title | default: "excerpt image" | regex_strip }}"
+          loading="lazy"
+          {% include fallback.html %}
+        >
+      </a>
+    {% endif %}
+
+    <div class="blog-excerpt-text">
+      <a href="{{ url }}">{{ title }}</a>
+
+      {%
+        include blog-info.html
+        author=blog.author
+        published=blog.date
+        updated=blog.last_modified_at
+        tags=blog.tags
+      %}
+
+      {% assign excerpt = blog.content
+        | default: ""
+        | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
+        | default: blog.excerpt
+        | default: ""
+        | strip_html
+      %}
+      {% assign search = blog.content
+        | strip_html
+        | strip_newlines
+        | regex_strip
+      %}
+      <p data-search="{{ search }}">
+        {{ excerpt }}
+      </p>
+    </div>
+  </div>
+</div>
