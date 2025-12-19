@@ -2,7 +2,7 @@
 name: Gang Li
 image: images/members/gang-li.jpg
 role: principal-investigator
-affiliation: Mississippi State University
+description: Assistant Professor
 aliases:
   - G. Li
   - Gang Li
