@@ -1,0 +1,18 @@
+<div class="blog-nav">
+  <span>
+    {% if include.blog.previous %}
+      {% include icon.html icon="fa-solid fa-angle-left" %} Previous blog<br>
+      <a href="{{ include.blog.previous.url | relative_url }}">
+        {{ include.blog.previous.title }}
+      </a>
+    {% endif %}
+  </span>
+  <span>
+    {% if include.blog.next %}
+      Next blog {% include icon.html icon="fa-solid fa-angle-right" %}<br>
+      <a href="{{ include.blog.next.url | relative_url }}">
+        {{ include.blog.next.title }}
+      </a>
+    {% endif %}
+  </span>
+</div>
