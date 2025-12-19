@@ -13,12 +13,6 @@ Pioneering AI-enabled predictive maintenance, renewable energy systems, and adva
 
 Our lab focuses on developing intelligent systems for energy infrastructure, combining artificial intelligence, machine learning, and advanced mechanical engineering to create more sustainable and resilient energy solutions.
 
-# Key research areas include:
-# - AI-enabled predictive maintenance for renewable energy systems
-# - Advanced drivetrain design for tidal and wind energy converters
-# - Federated learning for distributed energy systems
-# - Time-series forecasting for hydrogen production
-# - Gear dynamics and transmission systems
 
 {%
   include button.html
