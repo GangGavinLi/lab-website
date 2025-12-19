@@ -4,6 +4,7 @@ author: gang-li
 tags:
   - awards
   - recognition
+last_modified_at: ""
 ---
 
 Dr. Gang Li has been selected to receive the **2024 Junior Faculty Outstanding Research Award** from the James W. Bagley College of Engineering at Mississippi State University. This prestigious award recognizes exceptional research accomplishments by early-career faculty members.
