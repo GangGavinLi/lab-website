@@ -35,6 +35,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+   # markdown files in /_blogs
+  - scope:
+      type: "blogs"
+    values:
+      layout: blog
 
 collections:
   # generate page for each member
