@@ -5,8 +5,6 @@ nav:
   tooltip: Funding and Research projects
 ---
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 Our lab leads and contributes to numerous research projects that advance renewable energy technologies, artificial intelligence applications, and mechanical system design. These projects are supported by federal agencies, industry partners, and institutional resources.
@@ -38,7 +36,7 @@ We collaborate with leading institutions and organizations:
 - **Industry Partners** - Technology transfer and commercialization
 - **International Collaborators** - Joint research on renewable energy systems
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
 
 ## Technology Transfer
 
