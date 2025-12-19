@@ -1,9 +1,9 @@
 ---
 name: Doha Bounaim
-image: images/photo.jpg
+image: images/members/doha-bounaim.JPG
 role: phd
 links:
-  email: bounaim@example.edu
+  email: db3068@msstate.edu
 ---
 
 Doha Bounaim is a Ph.D. student in Mechanical Engineering at Mississippi State University. Her research focuses on multivariate time-series forecasting for wind-to-hydrogen production systems using advanced deep learning architectures, including CNN-Bi-LSTM models.
