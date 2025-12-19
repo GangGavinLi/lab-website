@@ -3,26 +3,23 @@
 # Wind-to-Hydrogen Forecasting
 - id: doi:10.1016/j.ijhydene.2025.152853
   image: images/publications/2026-doha-h2.jpg
-  description: Multivariate CNN-Bi-LSTM model achieves 4.1% MAPE in hydrogen production forecasting from distributed wind systems.
 
 - id: doi:10.1016/j.uclim.2025.102669
   image: images/publications/2025-laeeq-grid.jpg
 # Federated Learning for Wind
 - id: doi:10.1115/es2025-156364
   image: images/publications/federated-wind.jpg
-  description: Privacy-preserving federated learning framework enables collaborative condition monitoring across distributed wind farms without sharing SCADA data.
+
 
 # IVT Control for Tidal Energy
 - id: doi:10.1109/TMECH.2024.3398534
   image: images/publications/ivt-control.jpg
-  description: Novel control system for infinitely variable transmission maximizes tidal energy capture with 94% efficiency.
 
 # Physics-Informed Cable Monitoring
 - id: doi:10.3390/a18100600
   image: images/publications/cable-monitoring.jpg
-  description: CNN-LSTM architecture enhanced with physics knowledge enables early fault detection in underground power cables.
 
 # LSTM Wind Forecasting
 - id: doi:10.3390/a18040206
   image: images/publications/wind-forecasting.jpg
-  description: Extended LSTM network improves wind energy forecasting accuracy by 15% compared to traditional methods.
+ 
