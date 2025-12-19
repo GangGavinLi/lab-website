@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our lab conducts cutting-edge research at the intersection of artificial intelligence, mechanical engineering, and renewable energy systems. We develop innovative solutions for sustainable energy infrastructure, focusing on predictive maintenance, advanced drivetrains, and intelligent control systems.
+Our lab conducts cutting-edge research at the intersection of artificial intelligence, mechanical engineering, and renewable energy systems. We develop innovative solutions for critical energy infrastructure resilience, focusing on condition monitoring, predictive maintenance, advanced drivetrains, and intelligent control systems.
 
 {% include section.html %}
 
@@ -20,14 +20,6 @@ Developing machine learning and deep learning frameworks for condition monitorin
 - Physics-informed neural networks for underground power cable infrastructure
 - CNN-LSTM architectures for time-series forecasting
 
-### Advanced Drivetrain Technologies
-
-Designing and optimizing novel transmission systems for tidal and wind energy converters:
-- Infinitely variable transmissions (IVT) for tidal current energy harvesting
-- Noncircular gear pairs for power loss reduction
-- Integral time-delay feedback control systems
-- Hierarchical speed control using reinforcement learning
-
 ### Energy Forecasting & Optimization
 
 Creating predictive models for renewable energy production and integration:
@@ -35,6 +27,14 @@ Creating predictive models for renewable energy production and integration:
 - Extended LSTM networks for wind energy prediction
 - Multivariate CNN-Bi-LSTM temporal forecasting
 - Physics-informed ensemble learning for extreme weather events
+
+### Advanced Drivetrain Technologies
+
+Designing and optimizing novel transmission systems for tidal and wind energy converters:
+- Infinitely variable transmissions (IVT) for tidal current energy harvesting
+- Noncircular gear pairs for power loss reduction
+- Integral time-delay feedback control systems
+- Hierarchical speed control using reinforcement learning
 
 ### Gear Dynamics & Mechanical Systems
 
