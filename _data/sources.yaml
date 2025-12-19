@@ -1,23 +1,26 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+# _data/sources.yaml
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# 1. Wind-to-Hydrogen Forecasting
+- id: doi:10.1016/j.ijhydene.2025.152853
+  image: images/publications/hydrogen-forecasting.jpg
+  description: Multivariate CNN-Bi-LSTM model achieves 4.1% MAPE in hydrogen production forecasting from distributed wind systems.
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# 2. Federated Learning for Wind
+- id: doi:10.1115/es2025-156364
+  image: images/publications/federated-wind.jpg
+  description: Privacy-preserving federated learning framework enables collaborative condition monitoring across distributed wind farms without sharing SCADA data.
+
+# 3. IVT Control for Tidal Energy
+- id: doi:10.1109/TMECH.2024.3398534
+  image: images/publications/ivt-control.jpg
+  description: Novel control system for infinitely variable transmission maximizes tidal energy capture with 94% efficiency.
+
+# 4. Physics-Informed Cable Monitoring
+- id: doi:10.3390/a18100600
+  image: images/publications/cable-monitoring.jpg
+  description: CNN-LSTM architecture enhanced with physics knowledge enables early fault detection in underground power cables.
+
+# 5. LSTM Wind Forecasting
+- id: doi:10.3390/a18040206
+  image: images/publications/wind-forecasting.jpg
+  description: Extended LSTM network improves wind energy forecasting accuracy by 15% compared to traditional methods.
