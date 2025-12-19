@@ -15,4 +15,4 @@ Welcome to our collection of educational resources, tutorials, and learning mate
 
 {% include search-info.html %}
 
-{% include list.html data="blog" component="post-excerpt" %}
+{% include list.html data="blogs" component="post-excerpt" %}
