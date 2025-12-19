@@ -2,7 +2,7 @@
 
 # 1. Wind-to-Hydrogen Forecasting
 - id: doi:10.1016/j.ijhydene.2025.152853
-  image: images/publications/hydrogen-forecasting.jpg
+  image: images/publications/2026-doha-h2.jpg
   description: Multivariate CNN-Bi-LSTM model achieves 4.1% MAPE in hydrogen production forecasting from distributed wind systems.
 
 # 2. Federated Learning for Wind
