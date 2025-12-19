@@ -7,7 +7,7 @@ Pioneering AI-enabled predictive maintenance, renewable energy systems, and adva
 
 {% include section.html %}
 
-## Research Focus
+## Highlights
 
 {% capture text %}
 
