@@ -6,10 +6,10 @@
 
 - id: doi:10.1016/j.uclim.2025.102669
   image: images/publications/2025-laeeq-grid.jpg
+  
 # Federated Learning for Wind
 - id: doi:10.1115/es2025-156364
   image: images/publications/federated-wind.jpg
-
 
 # IVT Control for Tidal Energy
 - id: doi:10.1109/TMECH.2024.3398534
