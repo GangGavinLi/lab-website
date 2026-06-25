@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.apenergy.2026.128094
+  title: Physics-informed multi-gated convolutional recurrent network for extreme
+    wind speed prediction
+  authors:
+  - Laeeq Aslam
+  - Runmin Zou
+  - Yaohui Huang
+  - Gang Li
+  - Fatima Yaqoob
+  - Sara Mouafik
+  - Saad Yousaf
+  publisher: Applied Energy
+  date: '2026-10-01'
+  link: https://doi.org/hb8p43
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.swevo.2026.102437
+  title: Reinforcement learning-enhanced evolutionary algorithm for multi-objective
+    optimal control of a laboratory helicopter
+  authors:
+  - Zhengshuo Wang
+  - Ying Xin
+  - Haitao Zhu
+  - Gang Li
+  - Fenglei Ren
+  - Runfeng Zhang
+  - Zhichang Qin
+  publisher: Swarm and Evolutionary Computation
+  date: '2026-08-01'
+  link: https://doi.org/hb8p44
+  orcid: 0000-0003-2793-4615
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ijhydene.2025.152853
   title: Multivariate CNN-Bi-LSTM temporal production forecasting for distributed
     wind-to-hydrogen integrated systems with efficient data feature extraction
